@@ -8,7 +8,7 @@ Features
 - Saves QR codes as image files
 - Customizable QR code version, error correction level, box size, and border size
 
-Installation
+Installation:
 
 To run this project, you need to have Python installed on your system along with the `qrcode` library. You can install the `qrcode` library using pip:
 
@@ -97,3 +97,5 @@ This will create a QR code image named `linkedin_qr.png` that directs to your Li
 Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+Hope you will like it. 😊
