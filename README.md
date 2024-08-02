@@ -117,4 +117,4 @@ If you wish to contribute to this project:
 
 I appreciate your interest in improving this project! 😊
 
-## Thank you!
+## Thank you! ⭐😊
